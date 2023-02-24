@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(186, 206, 216);
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+h1 {
+    color: red;
+}
